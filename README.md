@@ -1,7 +1,6 @@
 <html>
 
 <head>
-<title>Kabir Graphics</title>
 </head>
 <boad>
 <h1>
